@@ -10,6 +10,7 @@ public class PrimeOrNot
 		String num = JOptionPane.showInputDialog("Input a number: ");
 	
 		int num1 = Integer.parseInt(num);
+		
 	
 		if (num1%2==0 && num1 != 2)
 		{
